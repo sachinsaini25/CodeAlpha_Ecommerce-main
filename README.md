@@ -1,1 +1,1 @@
-# CodeAlpha_Ecommerce-main
+# CodeAlpha_Ecommerce
